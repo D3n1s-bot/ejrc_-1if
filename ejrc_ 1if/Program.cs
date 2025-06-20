@@ -17,6 +17,10 @@ namespace ejrc__1if
             {
                 Console.WriteLine("El numero es positivo");
             }
+            else
+            {
+                Console.WriteLine("El numero es negativo o cero");
+            }
         }
     }
 }
